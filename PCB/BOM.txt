@@ -1,0 +1,13 @@
+BOM for CPW 2015 Board - table is delimited by "|" character.
+
+Cost@100($)|Number|Description|Link
+0.27|1|SMT MINI USB Connector|http://www.digikey.com/product-detail/en/690-005-299-043/151-1206-1-ND/4312192
+0.24|1|Temp Sensor|http://www.digikey.com/product-detail/en/MCP9701A-E%2FTO/MCP9701A-E%2FTO-ND/1212511
+0.12|1|14-pin IC Socket|http://www.digikey.com/product-detail/en/ED14DT/ED3045-5-ND/4147595
+1.31|1|ATtiny84A|http://www.digikey.com/product-detail/en/ATTINY84A-PU/ATTINY84A-PU-ND/2774082]
+0.17|1|Bypass Capacitor 10uF|http://www.digikey.com/product-detail/en/FK18X5R0J106M/445-8396-ND/2815326
+0.12|1|1K Bussed Resistor Array|http://www.digikey.com/product-detail/en/L101S102LF/987-1262-ND/2408839
+0.71|1|10x Green LED bar|http://www.digikey.com/product-detail/en/LTA-1000G/160-1067-ND/153278
+|1|PCB|
+
+Total Cost @100: $2.94

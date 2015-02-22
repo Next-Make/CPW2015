@@ -421,6 +421,45 @@
 </deviceset>
 </devicesets>
 </library>
+<library name="wirepad">
+<description>&lt;b&gt;Single Pads&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+<package name="SMD1,27-2,54">
+<description>&lt;b&gt;SMD PAD&lt;/b&gt;</description>
+<smd name="1" x="0" y="0" dx="1.27" dy="2.54" layer="1"/>
+<text x="0" y="0" size="0.0254" layer="27">&gt;VALUE</text>
+<text x="-0.8" y="-2.4" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+</package>
+</packages>
+<symbols>
+<symbol name="PAD">
+<wire x1="-1.016" y1="1.016" x2="1.016" y2="-1.016" width="0.254" layer="94"/>
+<wire x1="-1.016" y1="-1.016" x2="1.016" y2="1.016" width="0.254" layer="94"/>
+<text x="-1.143" y="1.8542" size="1.778" layer="95">&gt;NAME</text>
+<text x="-1.143" y="-3.302" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="P" x="2.54" y="0" visible="off" length="short" direction="pas" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="SMD2" prefix="PAD" uservalue="yes">
+<description>&lt;b&gt;SMD PAD&lt;/b&gt;</description>
+<gates>
+<gate name="1" symbol="PAD" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="SMD1,27-2,54">
+<connects>
+<connect gate="1" pin="P" pad="1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -441,6 +480,10 @@
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
+<part name="+LED_10" library="wirepad" deviceset="SMD2" device=""/>
+<part name="-LED_10" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PB3" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PB0" library="wirepad" deviceset="SMD2" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -457,6 +500,10 @@
 <instance part="GND2" gate="1" x="124.46" y="129.54"/>
 <instance part="GND3" gate="1" x="210.82" y="48.26"/>
 <instance part="GND4" gate="1" x="203.2" y="119.38"/>
+<instance part="+LED_10" gate="1" x="55.88" y="76.2"/>
+<instance part="-LED_10" gate="1" x="106.68" y="71.12" rot="R90"/>
+<instance part="PB3" gate="1" x="144.78" y="99.06"/>
+<instance part="PB0" gate="1" x="144.78" y="109.22"/>
 </instances>
 <busses>
 </busses>
@@ -684,6 +731,35 @@
 <wire x1="129.54" y1="93.98" x2="129.54" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="U$4" gate="G$1" pin="-LED_1"/>
 <wire x1="129.54" y1="121.92" x2="101.6" y2="121.92" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$20" class="0">
+<segment>
+<pinref part="+LED_10" gate="1" pin="P"/>
+<pinref part="U$4" gate="G$1" pin="+LED_10"/>
+<wire x1="58.42" y1="76.2" x2="63.5" y2="76.2" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$21" class="0">
+<segment>
+<pinref part="U$4" gate="G$1" pin="-LED_10"/>
+<pinref part="-LED_10" gate="1" pin="P"/>
+<wire x1="101.6" y1="76.2" x2="106.68" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="76.2" x2="106.68" y2="73.66" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$22" class="0">
+<segment>
+<pinref part="PB0" gate="1" pin="P"/>
+<pinref part="U$3" gate="G$1" pin="PB0"/>
+<wire x1="147.32" y1="109.22" x2="152.4" y2="109.22" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$23" class="0">
+<segment>
+<pinref part="PB3" gate="1" pin="P"/>
+<pinref part="U$3" gate="G$1" pin="PB3"/>
+<wire x1="147.32" y1="99.06" x2="152.4" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

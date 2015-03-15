@@ -18,33 +18,25 @@ A cop in a car
 Eats donuts in a strange place:
 Fuzz on the Great Dome
 
-MITís friendly:
+MIT's friendly:
 A TARDIS from me to you
 Hello there, Caltech!
 
-Tuition ainít cheap
+Tuition ain't cheap
 Billion dollars is a lot
 To pay for school, though!
 
-All hail the Sanoj
-Sanoj our supreme leader
-In Sanoj we trust
-
-Next House is best house
-Take a nice walk down Mem Drive
-Next House welcomes you! :)
-
 All schools in Cambridge
-Know that oneís the very best:
-And itís MIT!
+Know that one's the very best:
+And it's MIT!
 
-Whoís the mascot of
+Who's the mascot of
 The MIT Engineers?
-Itís Tim the Beaver!
+It's Tim the Beaver!
 
 Cryptic course numbers
 Are confusing, we admit
-But theyíre short and sweet
+But they're short and sweet
 
 Landing on the dome
 The Apollo astronauts
@@ -60,7 +52,7 @@ Free food on free-food!
 
 Eat at MIT:
 Tasty food in dining halls
-Believe it or not!
+Believe it or not
 
 Quadcopters hover
 In the skies of MIT
@@ -70,17 +62,11 @@ Painted mural walls
 Line the hallways of our dorms
 Unleash your artist!
 
-———————— Added from Google Doc
-
 Psetting by day,
 Touring MIT by night,
-Let’s go to Baker! 
+Let's go to Baker! 
 
-You are a prefrosh. 
-I’m supposed to inspire you. 
-I won’t. I’d need lie. (But I’d need to lie?)(sure, go ahead.)
-
-Wearing tin foil…
+Wearing tin foil...
 To ward off the NSA?
 Nope, just dying hair.
 
@@ -92,29 +78,20 @@ My grades are so great,
 all of my work is finished.              -Elton <3
 Oh, I just woke up.
 
-
 The internet died
 How could I ever go on?        -Still Elton
 I have no purpose
 
-I’m drinking coffee
-‘Cause I just studied all night
-Now my grades don’t suck   
-
 Sunshine and rainbows
-Finals done - let’s have a party!
-I’ll bring the glow sticks
+Finals done - let's have a party!
+I'll bring the glow sticks
 
-these are depressing
-can we get some happiness?
-420 blaze it
-
-It’s MIThenge!
+It's MIThenge!
 Sunlight warms the Infinite
 very cool. much wow.
 
-The enemy’s gate --
-Which way is it? Yeah, it’s down.
+The enemy's gate --
+Which way is it? Yeah, it's down.
 Lobby 7 knows.
 
 Hey, come see Next Act!
@@ -122,23 +99,15 @@ There will be singing and dance
 Also cats with hats.                        -Elton
 
 Remember to smile!
-There’s a whole wide world out there,
+There's a whole wide world out there,
 waiting to see it.             -still Elton wow i just need a symbol or something now
 
 Rings over Briggs Field
 Bridge the gap from Simmons to
-McGregor’s tower.
+McGregor's tower.
 
-4 am’s best for
-Some 5 hour energy
-Then 9 o’clock class
-
-i herd u liek snow
-so i put snow on ur snow
-here, have mt. simmons
-
-Wake up in the morn’
-and feeling like P Diddy (sp?)
+Wake up in the morn'
+and feeling like P Diddy
 Oh no i missed brunch.  - ok i need to stop (Elton)
 
  ♪ The engineer said 
@@ -175,13 +144,7 @@ IHTFP.
 
 Got three tests this week
 Studying, nope, not for me
-I’m writing a Haiku
-
-Next House best house? Yes!
-You never know what you’ll get
-with the shuttle times
-
-
+I'm writing a Haiku
 
 Just finished a p-set!
 Time to celebrate and - Oh.
@@ -191,52 +154,25 @@ Simmons has very
 Confusing elevators,
 So just take the stairs.
 
-Don’t take Simmons stairs
+Don't take Simmons stairs
 The stairs by front desk go to 
 Every floor but five
 
-I don’t know you, so,
+I don't know you, so,
 Hi Class of 2019,
-It’s nice to meet you!
+It's nice to meet you!
 
 Aerial copters
 Bearing shining, silver tubes
 Hello, MIT!
 
-In lobby 7
-No student can computer
-How soon it must know.
--corrected seeded semi-randomly generated
-
-In the crufty house
-The lounge engineering test
-To the while student.
--corrected seeded semi-randomly generated
-
-A pset new punt…
-The lounges biology
-that mccormick hall
--corrected seeded semi-randomly generated
-
-Don’t go New, Maseeh,
-EC, Random, or Simmons.
-Must live in Next House
-^[random person here, but I don’t think this is the spirit of cpw]
-
 MIT has lots
 of three letter acronyms
 known as TLAs
-Don’t go to 13
-To go to 24 - you 
-have to take detours
 
 Had an all nighter?
 That means you are practicing!
 many more to come
-
-This is a haiku
-If you don't like this haiku
-It's still a haiku
 
 Look out your window
 At a lovely river view
@@ -244,8 +180,97 @@ Or just at Simmons
 
 Why a beaver, though?
 We like them because they are
-Nature’s engineers
+Nature's engineers
 
 How many cool peeps
 Have I met at MIT?
 Too many to count.
+
+IHTFP
+Which one do I mean?
+Hint: It's paradise
+
+Athena clusters
+And Pharos printing, oh my
+Computers abound!
+
+CPW
+Is your very own sneak peak to
+A pretty cool place
+
+Sailboats on the Charles
+Fantastic Boston skylines
+Come visit Cambridge!
+
+Yarrrgh, me old hearties
+All ye need are doubloons and
+A pirate's license
+
+Seven feet of snow
+An announcement: school's cancelled
+Let's have snowball fights!
+
+Where's the 13th course?
+10, 11, 12, 14...
+Ocean engineers
+
+Undergrad research
+Means we get to do cool things
+In between classes
+
+Scootering to class
+The best way to get around
+Why? Because we can.
+
+MIT PE
+Take swimming, sailing, fencing
+So many choices
+
+The career fair
+Is a good place to get a
+Job and a t-shirt.
+
+See MIT's dorms:
+Resident exploration
+Free food everywhere!
+
+Walk the Freedom Trail
+Or go visit Faneuil Hall
+So many places!
+
+The Citgo sign glows
+Above the lights of Fenway
+Ah, Boston skyline
+
+Pies fly through the air
+Food fight? Nope, it's just pi day
+Happy 3/14!
+
+Everyone's looking
+What's that on the Green Building?
+Epic pumpkin drop
+
+Piano falling
+Off the roof of Baker House
+Candy everywhere
+
+The Stata Center:
+A building of many shapes
+No, it's not Simmons
+
+Don't swim in the Charles
+But if you take sailing then
+Sail a Tech Dinghy!
+
+Toss a disc or two
+Frisbee is the sport to play
+On Kresge Oval
+
+The Quidditch team here
+Could use a few new members
+Grab your Firebolt
+
+The Harvard Bridge is
+Three sixty-four point four smoots
+Plus or minus ear
+

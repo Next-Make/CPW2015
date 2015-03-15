@@ -18,25 +18,25 @@ A cop in a car
 Eats donuts in a strange place:
 Fuzz on the Great Dome
 
-MITís friendly:
+MIT's friendly:
 A TARDIS from me to you
 Hello there, Caltech!
 
-Tuition ainít cheap
+Tuition ain't cheap
 Billion dollars is a lot
 To pay for school, though!
 
 All schools in Cambridge
-Know that oneís the very best:
-And itís MIT!
+Know that one's the very best:
+And it's MIT!
 
-Whoís the mascot of
+Who's the mascot of
 The MIT Engineers?
-Itís Tim the Beaver!
+It's Tim the Beaver!
 
 Cryptic course numbers
 Are confusing, we admit
-But theyíre short and sweet
+But they're short and sweet
 
 Landing on the dome
 The Apollo astronauts
@@ -52,7 +52,7 @@ Free food on free-food!
 
 Eat at MIT:
 Tasty food in dining halls
-Believe it or not!
+Believe it or not
 
 Quadcopters hover
 In the skies of MIT
@@ -62,17 +62,11 @@ Painted mural walls
 Line the hallways of our dorms
 Unleash your artist!
 
-———————— Added from Google Doc
-
 Psetting by day,
 Touring MIT by night,
-Let’s go to Baker! 
+Let's go to Baker! 
 
-You are a prefrosh. 
-I’m supposed to inspire you. 
-I won’t. I’d need lie. (But I’d need to lie?)(sure, go ahead.)
-
-Wearing tin foil…
+Wearing tin foil...
 To ward off the NSA?
 Nope, just dying hair.
 
@@ -89,15 +83,15 @@ How could I ever go on?        -Still Elton
 I have no purpose
 
 Sunshine and rainbows
-Finals done - let’s have a party!
-I’ll bring the glow sticks
+Finals done - let's have a party!
+I'll bring the glow sticks
 
-It’s MIThenge!
+It's MIThenge!
 Sunlight warms the Infinite
 very cool. much wow.
 
-The enemy’s gate --
-Which way is it? Yeah, it’s down.
+The enemy's gate --
+Which way is it? Yeah, it's down.
 Lobby 7 knows.
 
 Hey, come see Next Act!
@@ -105,15 +99,15 @@ There will be singing and dance
 Also cats with hats.                        -Elton
 
 Remember to smile!
-There’s a whole wide world out there,
+There's a whole wide world out there,
 waiting to see it.             -still Elton wow i just need a symbol or something now
 
 Rings over Briggs Field
 Bridge the gap from Simmons to
-McGregor’s tower.
+McGregor's tower.
 
-Wake up in the morn’
-and feeling like P Diddy (sp?)
+Wake up in the morn'
+and feeling like P Diddy
 Oh no i missed brunch.  - ok i need to stop (Elton)
 
  ♪ The engineer said 
@@ -150,7 +144,7 @@ IHTFP.
 
 Got three tests this week
 Studying, nope, not for me
-I’m writing a Haiku
+I'm writing a Haiku
 
 Just finished a p-set!
 Time to celebrate and - Oh.
@@ -160,32 +154,17 @@ Simmons has very
 Confusing elevators,
 So just take the stairs.
 
-Don’t take Simmons stairs
+Don't take Simmons stairs
 The stairs by front desk go to 
 Every floor but five
 
-I don’t know you, so,
+I don't know you, so,
 Hi Class of 2019,
-It’s nice to meet you!
+It's nice to meet you!
 
 Aerial copters
 Bearing shining, silver tubes
 Hello, MIT!
-
-In lobby 7
-No student can computer
-How soon it must know.
--corrected seeded semi-randomly generated
-
-In the crufty house
-The lounge engineering test
-To the while student.
--corrected seeded semi-randomly generated
-
-A pset new punt…
-The lounges biology
-that mccormick hall
--corrected seeded semi-randomly generated
 
 MIT has lots
 of three letter acronyms
@@ -201,7 +180,7 @@ Or just at Simmons
 
 Why a beaver, though?
 We like them because they are
-Nature’s engineers
+Nature's engineers
 
 How many cool peeps
 Have I met at MIT?

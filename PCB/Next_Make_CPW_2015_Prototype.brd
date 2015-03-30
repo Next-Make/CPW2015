@@ -66,9 +66,9 @@
 <text x="1.27" y="4.445" size="2.54" layer="21" font="vector">Next-Make</text>
 <text x="1.27" y="1.27" size="2.54" layer="21" font="vector">CPW 2015</text>
 <text x="1.905" y="35.433" size="1.016" layer="21" font="vector">Temp Sensor</text>
-<text x="5.08" y="25.4" size="1.016" layer="21" rot="SR270">HaikuHaikuHai</text>
-<text x="3.175" y="25.4" size="1.016" layer="21" rot="SR270">kuHaikuHaikuHaiku</text>
-<text x="1.27" y="25.4" size="1.016" layer="21" rot="SR270">HaikuHaikuHai</text>
+<text x="5.08" y="25.4" size="1.016" layer="21" font="vector" rot="SR270">HaikuHaikuHai1</text>
+<text x="3.175" y="25.4" size="1.016" layer="21" font="vector" rot="SR270">kuHaikuHaikuHaiku2</text>
+<text x="1.27" y="25.4" size="1.016" layer="21" font="vector" rot="SR270">HaikuHaikuHai3</text>
 <wire x1="36.83" y1="27.94" x2="36.83" y2="26.67" width="0.254" layer="21"/>
 <wire x1="36.83" y1="26.67" x2="36.83" y2="22.86" width="0.254" layer="21"/>
 <wire x1="13.97" y1="22.86" x2="13.97" y2="27.94" width="0.254" layer="21"/>

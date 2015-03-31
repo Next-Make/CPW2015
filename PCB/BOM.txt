@@ -10,4 +10,8 @@ Cost@100($)|Number|Description|Link
 0.71|1|10x Green LED bar|http://www.digikey.com/product-detail/en/LTA-1000G/160-1067-ND/153278
 |1|PCB|
 
+
+http://www.digikey.com/product-detail/en/ERJ-8ENF1001V/P1.00KFCT-ND/89591
+
+
 Total Cost @100: $2.94

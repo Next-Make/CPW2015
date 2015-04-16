@@ -8,10 +8,8 @@ Cost@100($)|Number|Description|Link
 0.17|1|Bypass Capacitor 10uF|http://www.digikey.com/product-detail/en/FK18X5R0J106M/445-8396-ND/2815326
 0.12|1|1K Bussed Resistor Array|http://www.digikey.com/product-detail/en/L101S102LF/987-1262-ND/2408839
 0.71|1|10x Green LED bar|http://www.digikey.com/product-detail/en/LTA-1000G/160-1067-ND/153278
+0.02|2|1K 1% 1206 Resistor|http://www.digikey.com/product-detail/en/ERJ-8ENF1001V/P1.00KFCT-ND/89591
+
 |1|PCB|
 
-
-http://www.digikey.com/product-detail/en/ERJ-8ENF1001V/P1.00KFCT-ND/89591
-
-
-Total Cost @100: $2.94
+Total Cost @100: $2.96 + Cost(PCB)
